@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EPX"]
 	path = EPX
 	url = https://github.com/cran/EPX
-	shallow = true
-	registered = true
